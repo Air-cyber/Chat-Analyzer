@@ -1,2 +1,4 @@
-# Chat-Analyzer
-It is Used to analyze the chat
+# whatsapp-chat-analysis
+A streamlit app to analyze your whatsapp chats
+
+Demo Link: https://wca-campusx.herokuapp.com/
